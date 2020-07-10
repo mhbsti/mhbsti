@@ -12,8 +12,8 @@ Sou Engenheiro de software e estou a 15 anos no mundo da tecnologia da informaç
 
 ### Entusiasta e estudando:
 
-- [x] Gestão de pessos
 - [x] Gestão de pessoas
+- [x] Gestão de projetos
 - [x] Go lang
 - [x] Estatística
 - [x] Machine Learning
