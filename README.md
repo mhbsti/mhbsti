@@ -11,7 +11,7 @@ Tenho atuando nos últimos anos 17 anos como Tech Leader, Arquiteto de soluçõe
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"/>
 </div>
 
 
@@ -27,3 +27,5 @@ Tenho atuando nos últimos anos 17 anos como Tech Leader, Arquiteto de soluçõe
 ### :potted_plant:  Estou estudando
 
 ### :bulb: Tenho interesse em
+
+
