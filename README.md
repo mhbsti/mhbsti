@@ -1,6 +1,13 @@
 ## Olá pessoal, :wave:
 
-Tenho atuado nos últimos 18 anos como Tech Leader, Arquiteto de soluções, Engenheiro de dados e programador.
+Sou desenvolvedor/arquiteto de soluções para cloud/dados baseado em Ciudad del Este/Paraguay e Colombo no Brasil.
+Nos últimos 18 anos tenho atuado fortemente como Tech Leader, Arquiteto de soluções e Engenheiro de dados. Passando por diversas stacks, escalabilidade e orçamentos. Sempre focado nas pessoas, sem perder o olhar nas Metas/OKR e qualidade. Acredito que bons resultados são reflexo de um time motivado aliado a metas claras e boa infraestrura.
+
+### Eu posso ajudar sua empresa/projeto:
+- Melhorar a performance do seu time TECH
+- Escalar sua aplicação em cloud
+- Transformar seus dados em informações e insights
+
 
 ### :heart: Adoro trabalhar com:
 
