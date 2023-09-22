@@ -1,6 +1,6 @@
 ## Olá pessoal, :wave:
 
-Tenho atuado nos últimos 17 anos como Tech Leader, Arquiteto de soluções, Engenheiro de dados e programador
+Tenho atuado nos últimos 18 anos como Tech Leader, Arquiteto de soluções, Engenheiro de dados e programador.
 
 ### :heart: Adoro trabalhar com:
 
