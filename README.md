@@ -3,7 +3,7 @@
 Sou desenvolvedor/arquiteto de soluções para cloud/dados baseado em Ciudad del Este/Paraguay e Colombo no Brasil.
 Nos últimos 18 anos tenho atuado fortemente como Tech Leader, Arquiteto de soluções e Engenheiro de dados. Passando por diversas stacks, escalabilidade e orçamentos. Sempre focado nas pessoas, sem perder o olhar nas Metas/OKR e qualidade. Acredito que bons resultados são reflexo de um time motivado aliado a metas claras e boa infraestrura.
 
-### Eu posso ajudar sua empresa/projeto:
+### Eu posso ajudar sua empresa ou projeto:
 - Melhorar a performance do seu time TECH
 - Escalar sua aplicação em cloud
 - Transformar seus dados em informações e insights
