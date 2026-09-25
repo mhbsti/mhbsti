@@ -84,8 +84,8 @@ The channel is an extension of the experiments shared here on GitHub ---
 but with a broader perspective on **technology, career, the market, and
 the challenges of working in tech**.
 
-👉 **[youtube.com/@techdiario](https://www.youtube.com/@techdiario)**
-[🤖 PROJETOS DO CANLA](https://github.com/mhbsti/techdiario)
+- 👉 **[youtube.com/@techdiario](https://www.youtube.com/@techdiario)**
+- 🤖 **[ PROJETOS DO CANLA](https://github.com/mhbsti/techdiario)**
 
 ------------------------------------------------------------------------
 
