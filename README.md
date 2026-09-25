@@ -1,53 +1,53 @@
 ::: {align="center"}
-
-# Oi, eu sou Marcos, mais conhecido como Marcão
+# Hi, I'm Marcos, better known as Marcão
 
 ### Data & IT Leadership • AI / LLMs • Data Engineering • Software Architecture
 
-**Liderando projetos de Dados e IA, construindo soluções globais de software, testando e compartilhando tecnologia na prática.**
+**Leading Data & AI projects, building global software solutions,
+testing, and sharing technology in practice.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-mhbsti-181717?style=flat-square\&logo=github)](https://github.com/mhbsti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/marcos-hitanael-barchiki-dos-santos-38647032/)
-[![YouTube](https://img.shields.io/badge/YouTube-Tech%20Diário-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@techdiario)
+[![GitHub](https://img.shields.io/badge/GitHub-mhbsti-181717?style=flat-square&logo=github)](https://github.com/mhbsti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcos-hitanael-barchiki-dos-santos-38647032/)
+[![YouTube](https://img.shields.io/badge/YouTube-Tech%20Diário-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@techdiario)
 :::
 
-***
+------------------------------------------------------------------------
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou profissional de tecnologia com **21+ anos de experiência**, atuando em **liderança de tecnologia, Dados, Engenharia de Software, Arquitetura
-e IA**.
+I am a technology professional with **21+ years of experience**, working
+across **technology leadership, Data, Software Engineering,
+Architecture, and AI**.
 
-Atualmente, meu trabalho envolve **liderar equipes e projetos de Dados e
-IA**, transformar desafios de negócio em soluções escaláveis e explorar
-novas aplicações de Inteligência Artificial.
+Today, my work involves **leading Data & AI teams and projects**,
+turning business challenges into scalable solutions, and exploring new
+applications of Artificial Intelligence.
 
-No lado pessoal, meu foco está em uma pergunta:
+On the personal side, my focus revolves around one question:
 
-> **O que é possível fazer com IA local usando hardware real?**
+> **What can we actually do with local AI using real-world hardware?**
 
-Aqui registro meus experimentos, projetos e aprendizados.
+This is where I document my experiments, projects, and learnings.
 
-***
+------------------------------------------------------------------------
 
 ## 🤖 Local AI Lab
 
-Meu principal laboratório atualmente é **LLM local** e suas esteiras de execução.
+My main lab currently focuses on **local LLMs** and their execution
+pipelines.
 
-Área            Experimentos
+  Area            Experiments
+  --------------- ----------------------------------------------------
+  🧠 LLMs         Qwen, Llama, Gemma, DeepSeek, and quantized models
+  ⚡ Inference    llama.cpp, Ollama, Vulkan
+  🔎 RAG          Embeddings, context, and vector search
+  🤖 Agents       Tool calling, automation, and workflows
+  🖥️ Hardware     GPUs, VRAM, RAM, and different architectures
+  📊 Benchmarks   Tokens/s, latency, memory, and quality
 
-***
+**The idea:** test in practice, measure, and document.
 
-🧠 LLMs         Qwen, Llama, Gemma, DeepSeek e modelos quantizados
-⚡ Inferência   llama.cpp, Ollama, Vulkan
-🔎 RAG          Embeddings, contexto e busca vetorial
-🤖 Agents       Tool calling, automação e workflows
-🖥️ Hardware     GPU, VRAM, RAM e diferentes arquiteturas
-📊 Benchmarks   Tokens/s, latência, memória e qualidade
-
-**A ideia:** testar na prática, medir e documentar.
-
-***
+------------------------------------------------------------------------
 
 ## 🏗️ Engineering
 
@@ -63,52 +63,47 @@ AWS · GCP · Docker · Linux · CI/CD
 **AI Engineering**\
 LLMs · RAG · Agents · Inference · GenAI
 
-***
+------------------------------------------------------------------------
 
 ## 📺 Tech Diário
 
-### Tecnologia, carreira e vida real no mercado de TI
+### Technology, career, and real life in the IT market
 
-No **[Tech Diário](https://www.youtube.com/@techdiario)** compartilho
-meu dia a dia na tecnologia, incluindo:
+On **[Tech Diário](https://www.youtube.com/@techdiario)**, I share my
+day-to-day life in technology, including:
 
-* 🤖 IA local, LLMs e ferramentas de IA
+-   🤖 Local AI, LLMs, and AI tools
+-   🖥️ Hardware, GPUs, servers, and benchmarks
+-   🏗️ Software Engineering, Data, and Architecture
+-   💼 Career challenges and technology leadership
+-   📈 Technology market and trends
+-   💬 Opinions and personal experiences
+-   🇵🇾 Life in Paraguay
 
-* 🖥️ Hardware, GPUs, servidores e benchmarks
-
-* 🏗️ Engenharia de Software, Dados e Arquitetura
-
-* 💼 Desafios de carreira e liderança em tecnologia
-
-* 📈 Mercado de tecnologia e tendências
-
-* 💬 Opiniões e experiências pessoais
-
-* 🇵🇾 Vida no Paraguai
-
-O canal é uma extensão dos experimentos que também aparecem aqui no
-GitHub --- mas com uma visão mais ampla sobre **tecnologia, carreira,
-mercado e os desafios de quem trabalha na área**.
+The channel is an extension of the experiments shared here on GitHub ---
+but with a broader perspective on **technology, career, the market, and
+the challenges of working in tech**.
 
 👉 **[youtube.com/@techdiario](https://www.youtube.com/@techdiario)**
 
-***
+------------------------------------------------------------------------
 
-## 🧪 Como eu trabalho
+## 🧪 How I Work
 
-```text
+``` text
 BUILD → TEST → MEASURE → UNDERSTAND → SHARE
 ```
 
-Não quero apenas saber se funciona.
+I don't just want to know if something works.
 
-Quero entender **por que funciona, onde limita e como melhorar**.
+I want to understand **why it works, where it reaches its limits, and
+how to improve it**.
 
-***
+------------------------------------------------------------------------
 
-## 📌 O que você encontrará aqui
+## 📌 What You'll Find Here
 
-```text
+``` text
 🤖 Local LLMs
 🔎 RAG & AI Agents
 📊 Data Engineering
@@ -118,10 +113,9 @@ Quero entender **por que funciona, onde limita e como melhorar**.
 🖥️ AI Hardware
 ```
 
-***
+------------------------------------------------------------------------
 
 ::: {align="center"}
-
 ### 🚀 Build. Measure. Learn. Share.
 
 **github.com/mhbsti**
